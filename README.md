@@ -1,52 +1,84 @@
 # Andres Bustindui
 
-Mechanical Engineering student at the University of Colorado Boulder interested in building practical systems at the intersection of **mechanical design, data, automation, energy, and robotics**.
+Mechanical Engineering student at the **University of Colorado Boulder** with a minor in **Energy Engineering**, interested in mechanical design, automation, energy systems, robotics, and data-driven engineering.
 
-I enjoy taking engineering problems from messy real-world data or physical constraints to something useful: a model, dashboard, analysis, design, or working prototype.
+I like working on problems that combine physical systems with analysis: designing parts, improving processes, testing ideas, and turning engineering data into useful decisions.
 
 ## About me
 
-- 🎓 Senior Mechanical Engineering student at **CU Boulder**
-- ⚡ Academic interest in **energy engineering and engineering economics**
-- 🛠️ Experience with engineering analysis, manufacturing, mechanical design, and experimental methods
-- 🐍 Building with **Python** for data analysis and engineering tools
-- 🤖 Especially interested in **robotics, medical devices, automation, and intelligent physical systems**
-- 🌎 Mexican & Spanish; interested in international engineering opportunities
+- 🎓 B.S. Mechanical Engineering, **CU Boulder** — expected May 2027
+- ⚡ Minor in **Energy Engineering**
+- 🛠️ Certified **SOLIDWORKS Associate (CSWA)**
+- 💻 Experience with **SolidWorks, MATLAB, C++, Excel, Python, and engineering analysis**
+- 🤖 Interested in **robotics, medical devices, automation, mechanical design, and energy systems**
+- 🌎 Bilingual in English and Spanish
 
 ## Technical toolkit
 
-**Programming & analysis**  
-Python · MATLAB · Excel · Streamlit · Data analysis · Regression · ANOVA · Uncertainty analysis
+**Mechanical Engineering**  
+SolidWorks · CAD · FEA · Mechanical Design · Manufacturing · CNC Machining · Tube Bending · MIG Welding · Thermodynamics · Heat Transfer
 
-**Mechanical engineering**  
-SolidWorks · CAD · Mechanical design · Manufacturing processes · Thermodynamics · Heat transfer · Experimental methods
+**Programming & Analysis**  
+MATLAB · C++ · Python · Excel · Data Analysis · Regression · ANOVA · Uncertainty Analysis
 
-**Project work**  
-Engineering dashboards · Energy analysis · Design projects · Technical presentations · Cross-functional collaboration
+**Engineering Work**  
+Process Improvement · Energy Analysis · Experimental Methods · Technical Documentation · Cross-Functional Collaboration
 
-## Experience highlights
+## Selected experience
 
-### Minera Autlán — Engineering Intern
-Three summer internships focused on engineering improvement projects, including process/documentation work, transportation optimization, and energy-management analysis supporting ISO 50001 initiatives.
+### Continuous Improvement Intern — Minera Autlán
+**Summer 2024 · Summer 2025 · Summer 2026 | Monterrey, Mexico**
 
-Recent work included developing Python/Streamlit tools to explore production and energy data, compare operating behavior, and support engineering decision-making.
+- Optimized haul-truck and machinery routes to reduce diesel costs, contributing to a deployed project with approximately **MXN $2,000,000 in projected savings**.
+- Standardized data collection across multiple mine sites by consolidating inconsistent methods into a single framework.
+- Worked across three summer internships on continuous-improvement and engineering-analysis projects.
 
-> Public repositories on this profile use recreated or sanitized data and do not contain confidential company information.
+> Repositories based on professional work use recreated or sanitized data and do not contain confidential company information.
 
-## What I'm building here
+### Advising Student Assistant — CU Boulder Mechanical Engineering
+**Part-time | Boulder, Colorado**
 
-I'm using GitHub to document projects that show how I approach engineering problems, including:
+- Support undergraduate Mechanical Engineering students with course selection, degree planning, and academic resources.
+- Collaborate with faculty and staff on student-success and retention efforts.
 
-- **Energy & engineering data analysis** — Python-based analysis, modeling, and visualization
-- **Experimental methods** — uncertainty propagation, regression, ANOVA, and interpretation
-- **Mechanical design** — selected CAD/design work and engineering decision processes
-- **Automation projects** — small tools that turn repetitive engineering work into simple workflows
+## Featured engineering work
+
+### Drill-Powered Vehicle — Design Engineer
+Five-person mechanical design and manufacturing project.
+
+- Modeled the drivetrain and chassis in **SolidWorks**.
+- Fabricated the frame using **CNC machining, tube bending, and MIG welding**.
+- Reduced vehicle weight by **15% through iterative FEA** while maintaining structural integrity and drivetrain performance.
+- Finished **1st out of 20+ teams** for overall performance, engineering design, and build quality.
+
+### VW Beetle Restoration — Personal Project
+Ongoing hands-on restoration project.
+
+- Overhauled the engine and refinished the exterior.
+- Fabricated a manual retractable roof.
+- Continue performing mechanical upgrades and maintenance to keep the vehicle road-ready.
+
+## Entrepreneurship
+
+### Founder & CEO — resell.mx
+Built and operated a sneaker-resale business from 2019–2023.
+
+- Generated approximately **MXN $400,000 in profit**.
+- Built a reputation as a trusted seller and participated in multiple sneaker conventions.
+
+## What you'll find here
+
+I'm building this GitHub around a small number of well-documented engineering projects rather than filler repositories:
+
+- **Mechanical design & FEA**
+- **Engineering data analysis**
+- **Energy and process-improvement tools**
+- **Experimental methods and uncertainty analysis**
+- **Automation and engineering software projects**
 
 ## Current interests
 
-I'm particularly interested in opportunities involving:
-
-`Robotics` · `Medical Devices` · `Mechanical Design` · `Energy Systems` · `Engineering Software` · `Automation` · `Data-Driven Engineering`
+`Robotics` · `Medical Devices` · `Mechanical Design` · `Energy Systems` · `Automation` · `Engineering Software` · `Data-Driven Engineering`
 
 ## Connect
 
@@ -54,4 +86,4 @@ I'm particularly interested in opportunities involving:
 
 ---
 
-*More project repositories are being added as I continue organizing and documenting my engineering work.*
+*Currently organizing and documenting additional engineering projects for this profile.*
